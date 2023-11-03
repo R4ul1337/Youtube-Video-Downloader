@@ -3,7 +3,7 @@ With this tool you can download any youtube video
 
 
 # Setup
--Make sure you have pytube installed
+-Make sure you have pytube installed \n
 -After you install pytube with `pip install pytube` open the main.py
 
 # Version
